@@ -1,0 +1,187 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#homebody{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 15px;
+    background-color: white;
+    height: 730px;
+    border: 5px solid wheat;
+   border-radius: 20px;
+}
+#about{
+
+    color: orange;
+    margin: 30px;
+    font-size: 50px;
+}
+#contactlist{ 
+    margin-left:100px;
+    margin-right: 50px;
+    line-height: 40px;
+}
+
+
+.info{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+   
+}
+#matter{
+    line-height: 40px;
+    margin-top: 30px;
+    margin-left:100px;
+    margin-right: 50px;
+}
+
+#educationbody{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 5px;
+    background-color: white;
+    height: 430px;
+    border: 5px solid wheat;
+   border-radius: 20px;
+}
+#education2{
+    color:darkgreen;
+    margin: 30px;
+    font-size: 50px;
+}
+#educationlist{
+    line-height: 29px;
+    margin-top: 30px;
+    margin-left:100px;
+    margin-right: 50px;
+}
+.edu{
+    margin-left: 30px;
+    font-size: 20px;
+    color:rgba(0,0,0,0.7);
+}
+#skillsbody{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 5px;
+    background-color: white;
+    height: 430px;
+    border: 5px solid wheat;
+   border-radius: 20px;
+}
+#Skills2{
+    color:lightcoral;
+    margin: 30px;
+    font-size: 50px;
+}
+#skilllist{
+    line-height: 50px;
+    margin-top: 30px;
+    margin-left:150px;
+    margin-right: 50px;
+}
+.bigcontainer{
+    display:flex;
+    justify-content: ;
+    align-items: center;
+    
+
+}
+
+.container{
+    width: 30%;
+    height: 25px;
+    background-color: grey;
+    border-radius: 10px;
+    position: absolute;
+    right: 400px;
+    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0,0.7);
+    
+   
+}
+
+#cp{
+    height:25px;
+    width: 50%;
+    background-color: green;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+#wd{
+    height:25px;
+    width: 80%;
+    background-color:orange;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+#me{
+    height:25px;
+    width: 70%;
+    background-color:brown;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+#da{
+    height:25px;
+    width: 50%;
+    background-color: darkcyan;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+#gc{
+    height:25px;
+    width: 75%;
+    background-color: darkmagenta;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+#tm{
+    height:25px;
+    width: 90%;
+    background-color: blue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+#certificationsblock{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 5px;
+    background-color: white;
+    height: 430px;
+    border: 5px solid wheat;
+   border-radius: 20px;
+}
+#certificate2{
+    color:darkcyan;
+    margin: 30px;
+    font-size: 50px;
+    
+}
+#clist{
+    line-height: 50px;
+    margin-top: 30px;
+    margin-left:150px;
+    margin-right: 50px;
+}
